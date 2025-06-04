@@ -1,0 +1,5 @@
+f=open("c:\\users\\Administrator s\\Desktop\\pythonlab\\demo.py","r")
+print("file object is opend")
+print(f)
+data=f.read()
+print(data)
